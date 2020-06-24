@@ -1,0 +1,145 @@
+header {
+    background: black;
+    height: 60px;
+}
+header ul li {
+    float:left;
+    font-size:25px;
+}
+header ul li a {
+    padding:20px;
+    display:block;
+    color:white;
+    
+}
+header ul {
+  	position:absolute;
+	left:300px;
+}
+header ul li a:hover {
+        text-decoration:none;
+	color:white;
+	background:dodgerblue;
+    
+}
+.logo img {
+    float:left;
+    margin-left:170px;
+}
+.slider {
+    width: 1300px;
+    margin:auto;
+    
+}
+
+.fotolar{
+    height:400px;
+    backgraound:white;
+    margin-top:20px;
+    margin-bottom:20px;
+    
+}
+.hayvan1{
+    width:300px;
+    text-align:center;
+    padding:10px;
+    background-color:#ccc;
+    height:370px;
+    float:left;
+    margin:10px;
+    margin-top:20px;
+
+}
+.hayvan1 img{
+    width:250px;
+    height:250px;
+}
+h2{
+        font-size:18px;
+    font-weight: bold;
+    
+}
+.hayvan1:hover {
+    background:dodgerblue;
+    transition: all 0.5sn;
+}
+footer{
+    height:200px;
+    background:black;
+    
+}
+.footer {
+    position:absolute;
+    left:400px;
+        width:600px;
+}
+.footer ul li {
+    float:left;
+    font-size:20px;
+    padding:20px
+}
+.footer ul li a {
+    display:block;
+    padding:10px;
+}
+.footer ul li a:hover {
+    color:dodgerblue;
+    text-decoration: none;
+}
+.sosyal {
+    float:right;
+    position:absolute;
+    right:100px;
+    width: 400px;
+    height:100px;
+    margin-top:20px;
+    border-bottom:2px solid #ddd;
+}
+.sosyal h2 {
+    font-size:20px;
+    font-weight: bold;
+    padding:20px;
+    color:white;
+    margin-bottom:5px;
+}
+.hakkımda pre {
+    height:700px;
+    text-align:center;
+    background: #544a7d;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffd452, #544a7d);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffd452, #544a7d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.iletişim {
+  
+}
+@media only screen and (max-width: 600px){
+  header {
+    background: Purple;
+    margin:0px auto;
+    width:100%;
+    
+
+}
+header ul li a {
+ 
+ margin:0px auto;
+}
+header ul {
+  	width:100%;
+}
+
+    
+}
+.logo img {
+    
+    float:none;
+        
+     }
+    .slider {
+        width:100%;
+    }
+    .hayvan1 {
+        width:100%;
+    }
+

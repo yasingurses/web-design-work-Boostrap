@@ -1,8 +1,22 @@
-[0511/121726.219:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0511/130527.642:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0511/130726.522:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0511/130740.075:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0511/131613.990:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0602/204628.775:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0615/214256.453:ERROR:crash_report_database_win.cc(469)] failed to stat report
-[0624/110253.996:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0501/155454.500:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0501/155517.941:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0501/155526.736:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0501/161012.454:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0501/165943.636:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0503/172031.470:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0506/165913.584:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0512/121929.939:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0515/115603.549:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0515/115638.364:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0515/120603.550:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0515/120603.791:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0515/121103.554:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0515/122520.314:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0515/122520.314:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0515/122520.319:ERROR:exception_snapshot_win.cc(98)] thread ID 13680 not found in process
+[0515/122520.319:ERROR:exception_snapshot_win.cc(98)] thread ID 3068 not found in process
+[0602/204727.755:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0602/204744.970:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0615/213752.498:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0615/213803.666:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0624/110224.252:ERROR:crash_report_database_win.cc(469)] failed to stat report
